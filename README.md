@@ -5,7 +5,6 @@
 
 - Utilización de Github y Github Pages.
 - Descargar y editar a mi gusto una plantilla HTML y CSS.
-- Editar la plantilla a nuestro gusto.
 - Utilización de comandos básicos de Git.
 - Subir el portafolio a un servidor.
 - Poner un dominio personalizado a nuestro portafolio.
