@@ -159,6 +159,9 @@ h1, h2, h3, h4, h5, h6 {
   #header h1 a {
     color: #5562f1;
   }
+  #header h2 {
+    color: #606063;
+  }
   #header h2 span {
     color: #5562f1;
   }
